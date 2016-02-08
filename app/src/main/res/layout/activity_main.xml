@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/greeting"
+        android:text="Hello GitHub!"
         android:layout_gravity="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Display3"/>
 </FrameLayout>
